@@ -1,0 +1,28 @@
+//Installation
+sudo apt-get update
+sudo apt-get install git
+
+created the project folder
+changed the working directory to the project folder
+
+git init
+git config --global user.name "username"
+git config --global user.email "email address"
+
+Created the files
+git status
+git add filenames
+git commit -m "Message"
+git log
+
+
+GitHub
+Created the account
+Created the repository
+created the token -Settings-Developer Setting--Generate token (clasic)
+git remote add a2 githuburl
+git push a2 master
+
+
+
+
